@@ -1,0 +1,37 @@
+[
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2018,
+   "Emissions": 276.752811,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2017,
+   "Emissions": 278.3072002,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2016,
+   "Emissions": 276.4851792,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2015,
+   "Emissions": 271.5273226,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2014,
+   "Emissions": 267.2919298,
+   "Unit": "Gg (1000 tonnes)"
+ }
+]
