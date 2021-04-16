@@ -2,7 +2,7 @@
 // Takes params of JSON data Javascript objects on the form - const data = Data.
 
 import React from 'react';
-import { VictoryBar, VictoryChart, VictoryAxis, VictoryLabel } from 'victory';
+import { VictoryBar, VictoryChart, VictoryAxis, VictoryLabel, VictoryTooltip } from 'victory';
 
 function Chart(data) {
   return (
@@ -19,6 +19,7 @@ function Chart(data) {
     <VictoryAxis
       dependentAxis // Indicated that we are now dealing with the y-axis (dependant variable)
       //tickValues={500, 1000, 1500, 2000, 2500, 3000, 3500}
+      axisLabelComponent={<VictoryLabel dy={-12} />}
       label="Pollutant Amount (1000 tonnes)"
       //style={{axisLabel: {padding: 35 } }} 
     />
@@ -26,6 +27,12 @@ function Chart(data) {
     <VictoryBar
       // Takes the data that is passed to it and creates the react component based on the axis and the data
       data={data}
+      labels={({ datum }) => [`Year: ${datum.Year}`, `${datum.Emissions}`] }
+      labelComponent={<VictoryTooltip dy={0} centerOffset={{ x: 25 }} 
+        flyoutStyle={{ stroke: "tomato", strokeWidth: 2 }}
+
+      />}
+      
       x="Year"
       y="Emissions"
     />
