@@ -1,5 +1,31 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.row {
+  display: flex;
+  padding-top: 50px;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 50%;
+  padding-left: 5%;
+}
+
+.right {
+  width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 
 .App-logo {
