@@ -1,12 +1,6 @@
 import React, { Component } from "react";
-import {
-  TextField,
-  Select,
-  MenuItem,
-  FormControl,
-  Button,
-} from "@material-ui/core";
-import { Formik, Field } from "formik";
+import { Select, MenuItem, FormControl, Button } from "@material-ui/core";
+import { Formik } from "formik";
 import "../styles/form.css";
 
 export default class Form extends Component {
