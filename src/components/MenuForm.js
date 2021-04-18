@@ -1,7 +1,23 @@
 import React, { Component } from "react";
-import { Select, MenuItem, FormControl, Button } from "@material-ui/core";
+import {
+  Select,
+  MenuItem,
+  FormControl,
+  Button,
+  createMuiTheme,
+  ThemeProvider,
+} from "@material-ui/core";
 import { Formik } from "formik";
 import "../styles/form.css";
+
+const theme = createMuiTheme({
+  palette: {
+    text: {
+      primary: "#FFFFFF",
+    },
+    type: "dark",
+  },
+});
 
 export default class Form extends Component {
   render() {
@@ -18,20 +34,22 @@ export default class Form extends Component {
         >
           {({ values, handleChange, handleBlur, handleSubmit }) => (
             <form onSubmit={handleSubmit} onChange={handleChange}>
-              <FormControl variant="filled">
-                <Select
-                  name="country"
-                  value={values.country}
-                  onChange={handleChange}
-                  onBlur={handleBlur}
-                >
-                  <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
-                  <MenuItem value={"France"}>France</MenuItem>
-                  <MenuItem value={"Spain"}>Spain</MenuItem>
-                </Select>
-              </FormControl>
-
+              <ThemeProvider theme={theme}>
+                <FormControl variant="filled">
+                  <Select
+                    name="country"
+                    value={values.country}
+                    onChange={handleChange}
+                    onBlur={handleBlur}
+                  >
+                    <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
+                    <MenuItem value={"France"}>France</MenuItem>
+                    <MenuItem value={"Spain"}>Spain</MenuItem>
+                  </Select>
+                </FormControl>
+              </ThemeProvider>
               <div>
+                <br />
                 <FormControl variant="filled">
                   <Select
                     name="pollutantType"
@@ -47,8 +65,11 @@ export default class Form extends Component {
                   </Select>
                 </FormControl>
               </div>
+              <br />
               <div>
-                <Button type="submit">Query Data</Button>
+                <ThemeProvider theme={theme}>
+                  <Button type="submit">Query Data</Button>
+                </ThemeProvider>
               </div>
             </form>
           )}

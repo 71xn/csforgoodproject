@@ -6,7 +6,7 @@
 
 .row {
   display: flex;
-  padding-top: 50px;
+  padding-top: 5px;
 }
 
 .column {
@@ -19,6 +19,7 @@
 }
 
 .right {
+  padding-top: 5%;
   width: 50%;
 }
 
