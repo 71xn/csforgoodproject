@@ -2,9 +2,6 @@ import React, { Component } from "react";
 import {
   Navbar,
   Nav,
-  NavDropdown,
-  Form,
-  FormControl,
   Button,
 } from "react-bootstrap";
 
@@ -17,7 +14,7 @@ export default class Navigation extends Component {
 
   render() {
     return (
-      <Navbar bg="light" expand="lg">
+      <Navbar bg="light" fixed="top" expand="lg">
         <Navbar.Brand href="/">
           <img
             alt=""
