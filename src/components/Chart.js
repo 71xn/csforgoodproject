@@ -21,7 +21,7 @@ export default class Chart extends Component {
         theme={VictoryTheme.material}
         animate={{ duration: 500 }}
         domainPadding={20}
-        padding={{ top: 40, bottom: 80, left: 80, right: 20 }}
+        padding={{ top: 40, bottom: 60, left: 80, right: 20 }}
       >
         <VictoryAxis
           // Sets x-axis labels for the years and sets the label for the axis as "Year"

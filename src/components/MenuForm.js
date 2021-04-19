@@ -6,18 +6,23 @@ import {
   Button,
   createMuiTheme,
   ThemeProvider,
+  makeStyles,
+  withStyles
 } from "@material-ui/core";
 import { Formik } from "formik";
 import "../styles/form.css";
 
+
 const theme = createMuiTheme({
   palette: {
-    text: {
-      primary: "#FFFFFF",
-    },
+    textColor: "#FFFFFF",
     type: "dark",
   },
+  MenuItem: {
+    selectedTextColor: 'white',
+  },
 });
+
 
 export default class Form extends Component {
   render() {
@@ -36,7 +41,7 @@ export default class Form extends Component {
             <form onSubmit={handleSubmit} onChange={handleChange}>
               <ThemeProvider theme={theme}>
                 <FormControl variant="filled">
-                  <Select
+                  <Select labelStyle={{ color: 'green' }}
                     name="country"
                     value={values.country}
                     onChange={handleChange}
@@ -50,6 +55,7 @@ export default class Form extends Component {
               </ThemeProvider>
               <div>
                 <br />
+                <ThemeProvider theme={theme}>
                 <FormControl variant="filled">
                   <Select
                     name="pollutantType"
@@ -64,6 +70,8 @@ export default class Form extends Component {
                     <MenuItem value={"NMVOC"}>NMVOC</MenuItem>
                   </Select>
                 </FormControl>
+                </ThemeProvider>
+                
               </div>
               <br />
               <div>
