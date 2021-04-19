@@ -6,8 +6,7 @@ import {
   Button,
   createMuiTheme,
   ThemeProvider,
-  makeStyles,
-  withStyles
+  FormHelperText
 } from "@material-ui/core";
 import { Formik } from "formik";
 import "../styles/form.css";
@@ -33,7 +32,7 @@ export default class Form extends Component {
           onSubmit={(data, { setSubmitting }) => {
             setSubmitting(true);
             this.props.functionCallFromParent(data);
-            //console.log(data);
+            console.log(data);
             setSubmitting(false);
           }}
         >
@@ -50,7 +49,10 @@ export default class Form extends Component {
                     <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
                     <MenuItem value={"France"}>France</MenuItem>
                     <MenuItem value={"Spain"}>Spain</MenuItem>
+                    <MenuItem value={"Germany"}>Germany</MenuItem>
+                    <MenuItem value={"Italy"}>Italy</MenuItem>
                   </Select>
+                  <FormHelperText>Countries</FormHelperText>
                 </FormControl>
               </ThemeProvider>
               <div>
@@ -69,6 +71,7 @@ export default class Form extends Component {
                     <MenuItem value={"PM2.5"}>PM2.5</MenuItem>
                     <MenuItem value={"NMVOC"}>NMVOC</MenuItem>
                   </Select>
+                  <FormHelperText>Air Pollutant Type</FormHelperText>
                 </FormControl>
                 </ThemeProvider>
                 

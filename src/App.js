@@ -2,7 +2,7 @@ import "./App.css";
 import Chart from "./components/Chart.js";
 import { Component } from "react";
 import Form from "./components/MenuForm.js";
-import Data from "./d2.json";
+import Data from "./d.json";
 import sortData from "./components/DS.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navigation from "./components/Navigation.js";
@@ -21,9 +21,10 @@ export default class App extends Component {
 
   // Sends data back to index
   parentFunction = (dataFromForm) => {
-    this.props.functionFromParent(dataFromForm);
+    //this.props.functionFromParent(dataFromForm);
     var pollutant = dataFromForm.pollutantType;
-    var newData = sortData(pollutant, Data);
+    var country = dataFromForm.country;
+    var newData = sortData(country, pollutant, Data);
     this.setState({ data: newData });
   };
 
@@ -36,6 +37,10 @@ export default class App extends Component {
             <Chart data={this.state.data} />
           </div>
           <div class="column right">
+            <h1 color="white">
+              Data Selection
+            </h1>
+            <br />
             <Form functionCallFromParent={this.parentFunction.bind(this)} />
           </div>
         </div>

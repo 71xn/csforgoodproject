@@ -14,7 +14,7 @@ export default class Navigation extends Component {
 
   render() {
     return (
-      <Navbar bg="light" fixed="top" expand="lg">
+      <Navbar  bg="dark" variant="dark" fixed="top" expand="lg">
         <Navbar.Brand href="/">
           <img
             alt=""
@@ -23,7 +23,7 @@ export default class Navigation extends Component {
             height="30"
             className="d-inline-block align-top"
           />{" "}
-          #CSFORGOOD
+          #CSFORGOOD - European Pollution Visualization
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

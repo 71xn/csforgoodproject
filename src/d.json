@@ -1,0 +1,5077 @@
+[
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2018,
+   "Emissions": 594.1882052,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2017,
+   "Emissions": 598.8442467,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2016,
+   "Emissions": 602.7053882,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2015,
+   "Emissions": 603.2557887,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2014,
+   "Emissions": 597.3339691,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2013,
+   "Emissions": 592.7914966,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2012,
+   "Emissions": 595.4870823,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2011,
+   "Emissions": 595.2206232,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2010,
+   "Emissions": 605.355109,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2009,
+   "Emissions": 600.7408807,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2008,
+   "Emissions": 610.4199502,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2007,
+   "Emissions": 602.6565483,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2006,
+   "Emissions": 595.8239373,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2005,
+   "Emissions": 606.2554298,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2004,
+   "Emissions": 611.168392,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2003,
+   "Emissions": 618.6396393,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2002,
+   "Emissions": 626.6673597,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2001,
+   "Emissions": 640.9319494,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 2000,
+   "Emissions": 646.9445872,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1999,
+   "Emissions": 634.877157,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1998,
+   "Emissions": 636.2114472,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1997,
+   "Emissions": 634.1849175,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1996,
+   "Emissions": 639.3856967,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1995,
+   "Emissions": 634.5101665,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1994,
+   "Emissions": 629.856056,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1993,
+   "Emissions": 635.9750135,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1992,
+   "Emissions": 640.0100757,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1991,
+   "Emissions": 653.3450023,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NH3",
+   "Year": 1990,
+   "Emissions": 653.4215691,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2018,
+   "Emissions": 595.181341,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2017,
+   "Emissions": 620.2630006,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2016,
+   "Emissions": 617.9536269,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2015,
+   "Emissions": 634.4369831,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2014,
+   "Emissions": 662.9606667,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2013,
+   "Emissions": 687.5530861,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2012,
+   "Emissions": 696.569956,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2011,
+   "Emissions": 733.8609334,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2010,
+   "Emissions": 814.3893871,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2009,
+   "Emissions": 799.8834457,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2008,
+   "Emissions": 891.1554441,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2007,
+   "Emissions": 966.5308542,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2006,
+   "Emissions": 1067.415021,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2005,
+   "Emissions": 1178.371526,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2004,
+   "Emissions": 1272.04658,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2003,
+   "Emissions": 1360.590957,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2002,
+   "Emissions": 1436.765789,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2001,
+   "Emissions": 1562.12697,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 2000,
+   "Emissions": 1648.858199,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1999,
+   "Emissions": 1754.116599,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1998,
+   "Emissions": 1853.438708,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1997,
+   "Emissions": 1908.246879,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1996,
+   "Emissions": 2032.883623,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1995,
+   "Emissions": 2070.018446,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1994,
+   "Emissions": 2143.306772,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1993,
+   "Emissions": 2313.30004,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1992,
+   "Emissions": 2440.909339,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1991,
+   "Emissions": 2508.969844,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NMVOC",
+   "Year": 1990,
+   "Emissions": 2466.494577,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2018,
+   "Emissions": 749.0072259,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2017,
+   "Emissions": 803.8552194,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2016,
+   "Emissions": 826.8459055,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2015,
+   "Emissions": 869.8081953,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2014,
+   "Emissions": 895.816263,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2013,
+   "Emissions": 969.5768353,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2012,
+   "Emissions": 984.6505777,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2011,
+   "Emissions": 1010.840482,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2010,
+   "Emissions": 1072.441029,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2009,
+   "Emissions": 1093.561453,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2008,
+   "Emissions": 1171.607283,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2007,
+   "Emissions": 1270.450767,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2006,
+   "Emissions": 1334.745778,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2005,
+   "Emissions": 1420.007976,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2004,
+   "Emissions": 1466.788258,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2003,
+   "Emissions": 1505.308388,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2002,
+   "Emissions": 1550.715918,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2001,
+   "Emissions": 1590.694822,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 2000,
+   "Emissions": 1629.285453,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1999,
+   "Emissions": 1681.550681,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1998,
+   "Emissions": 1734.451041,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1997,
+   "Emissions": 1707.079444,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1996,
+   "Emissions": 1776.173184,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1995,
+   "Emissions": 1798.514322,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1994,
+   "Emissions": 1845.157344,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1993,
+   "Emissions": 1903.152762,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1992,
+   "Emissions": 2007.528856,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1991,
+   "Emissions": 2020.862008,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "NOx",
+   "Year": 1990,
+   "Emissions": 1973.11,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2018,
+   "Emissions": 134.3962816,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2017,
+   "Emissions": 143.2420529,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2016,
+   "Emissions": 149.1300635,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2015,
+   "Emissions": 149.4820206,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2014,
+   "Emissions": 147.9529676,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2013,
+   "Emissions": 173.261656,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2012,
+   "Emissions": 172.9802535,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2011,
+   "Emissions": 169.9318761,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2010,
+   "Emissions": 196.5377514,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2009,
+   "Emissions": 189.3492911,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2008,
+   "Emissions": 199.9602473,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2007,
+   "Emissions": 207.1173664,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2006,
+   "Emissions": 220.9076969,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2005,
+   "Emissions": 246.6057191,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2004,
+   "Emissions": 268.4223545,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2003,
+   "Emissions": 283.1443742,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2002,
+   "Emissions": 284.9150091,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2001,
+   "Emissions": 307.8306593,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 2000,
+   "Emissions": 319.7892303,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1999,
+   "Emissions": 348.3541822,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1998,
+   "Emissions": 369.886186,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1997,
+   "Emissions": 376.9886777,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1996,
+   "Emissions": 415.0710518,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1995,
+   "Emissions": 404.493488,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1994,
+   "Emissions": 401.5461914,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1993,
+   "Emissions": 434.8366515,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1992,
+   "Emissions": 450.3654834,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1991,
+   "Emissions": 475.169072,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "PM2.5",
+   "Year": 1990,
+   "Emissions": 424.0325792,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2018,
+   "Emissions": 135.8822649,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2017,
+   "Emissions": 139.6328838,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2016,
+   "Emissions": 140.2155239,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2015,
+   "Emissions": 158.8096753,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2014,
+   "Emissions": 165.9083582,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2013,
+   "Emissions": 210.6012146,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2012,
+   "Emissions": 226.5235681,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2011,
+   "Emissions": 234.532755,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2010,
+   "Emissions": 275.050456,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2009,
+   "Emissions": 292.3383486,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2008,
+   "Emissions": 342.9229256,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2007,
+   "Emissions": 411.3097462,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2006,
+   "Emissions": 429.7150416,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2005,
+   "Emissions": 457.9472255,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2004,
+   "Emissions": 480.0135027,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2003,
+   "Emissions": 498.3812691,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2002,
+   "Emissions": 520.667074,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2001,
+   "Emissions": 565.2867762,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 2000,
+   "Emissions": 626.314348,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1999,
+   "Emissions": 721.25104,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1998,
+   "Emissions": 840.1176959,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1997,
+   "Emissions": 801.8628324,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1996,
+   "Emissions": 945.9894176,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1995,
+   "Emissions": 957.9756496,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1994,
+   "Emissions": 1011.521965,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1993,
+   "Emissions": 1080.550777,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1992,
+   "Emissions": 1245.475404,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1991,
+   "Emissions": 1379.754327,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "France",
+   "PL": "SOx",
+   "Year": 1990,
+   "Emissions": 1283.322037,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2018,
+   "Emissions": 636.4253136,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2017,
+   "Emissions": 665.6789442,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2016,
+   "Emissions": 675.5309102,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2015,
+   "Emissions": 684.1556191,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2014,
+   "Emissions": 675.5164388,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2013,
+   "Emissions": 674.0149513,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2012,
+   "Emissions": 658.1237411,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2011,
+   "Emissions": 670.3278852,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2010,
+   "Emissions": 640.7838014,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2009,
+   "Emissions": 660.18577,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2008,
+   "Emissions": 648.7332388,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2007,
+   "Emissions": 645.8618407,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2006,
+   "Emissions": 642.7739915,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2005,
+   "Emissions": 641.4437285,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2004,
+   "Emissions": 642.3891433,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2003,
+   "Emissions": 654.1056094,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2002,
+   "Emissions": 657.8889375,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2001,
+   "Emissions": 673.9953532,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 2000,
+   "Emissions": 667.0803856,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1999,
+   "Emissions": 666.7791427,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1998,
+   "Emissions": 667.4496812,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1997,
+   "Emissions": 658.8420852,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1996,
+   "Emissions": 665.770208,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1995,
+   "Emissions": 655.3965708,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1994,
+   "Emissions": 645.9790352,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1993,
+   "Emissions": 673.66963,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1992,
+   "Emissions": 667.7851685,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1991,
+   "Emissions": 678.6297294,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NH3",
+   "Year": 1990,
+   "Emissions": 760.0545227,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2018,
+   "Emissions": 1140.321242,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2017,
+   "Emissions": 1165.414532,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2016,
+   "Emissions": 1160.278263,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2015,
+   "Emissions": 1166.26845,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2014,
+   "Emissions": 1196.457063,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2013,
+   "Emissions": 1234.922901,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2012,
+   "Emissions": 1278.878607,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2011,
+   "Emissions": 1273.316743,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2010,
+   "Emissions": 1383.960276,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2009,
+   "Emissions": 1267.408473,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2008,
+   "Emissions": 1382.252532,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2007,
+   "Emissions": 1444.002479,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2006,
+   "Emissions": 1506.621655,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2005,
+   "Emissions": 1512.07139,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2004,
+   "Emissions": 1560.87087,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2003,
+   "Emissions": 1566.040467,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2002,
+   "Emissions": 1649.342576,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2001,
+   "Emissions": 1744.484896,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 2000,
+   "Emissions": 1840.770594,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1999,
+   "Emissions": 2015.342724,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1998,
+   "Emissions": 2181.301899,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1997,
+   "Emissions": 2244.27651,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1996,
+   "Emissions": 2305.62163,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1995,
+   "Emissions": 2407.29368,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1994,
+   "Emissions": 2542.190048,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1993,
+   "Emissions": 2974.91797,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1992,
+   "Emissions": 3169.035948,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1991,
+   "Emissions": 3496.795675,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NMVOC",
+   "Year": 1990,
+   "Emissions": 4033.296856,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2018,
+   "Emissions": 1202.278808,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2017,
+   "Emissions": 1288.065944,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2016,
+   "Emissions": 1335.944021,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2015,
+   "Emissions": 1366.249575,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2014,
+   "Emissions": 1394.873481,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2013,
+   "Emissions": 1441.037622,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2012,
+   "Emissions": 1439.855355,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2011,
+   "Emissions": 1455.159732,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2010,
+   "Emissions": 1473.855735,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2009,
+   "Emissions": 1456.3608,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2008,
+   "Emissions": 1552.75099,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2007,
+   "Emissions": 1602.089899,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2006,
+   "Emissions": 1653.030864,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2005,
+   "Emissions": 1641.467885,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2004,
+   "Emissions": 1695.438989,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2003,
+   "Emissions": 1742.428087,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2002,
+   "Emissions": 1787.241497,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2001,
+   "Emissions": 1848.348736,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 2000,
+   "Emissions": 1910.690851,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1999,
+   "Emissions": 1984.6492,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1998,
+   "Emissions": 2019.108893,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1997,
+   "Emissions": 2047.974717,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1996,
+   "Emissions": 2124.027963,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1995,
+   "Emissions": 2210.687099,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1994,
+   "Emissions": 2262.479394,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1993,
+   "Emissions": 2398.031695,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1992,
+   "Emissions": 2500.246931,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1991,
+   "Emissions": 2654.441988,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "NOx",
+   "Year": 1990,
+   "Emissions": 2884.383884,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2018,
+   "Emissions": 96.70530734,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2017,
+   "Emissions": 98.33833411,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2016,
+   "Emissions": 99.545263,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2015,
+   "Emissions": 105.5292988,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2014,
+   "Emissions": 107.44937,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2013,
+   "Emissions": 114.9655198,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2012,
+   "Emissions": 117.0879908,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2011,
+   "Emissions": 118.1815502,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2010,
+   "Emissions": 123.1351948,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2009,
+   "Emissions": 117.2541072,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2008,
+   "Emissions": 129.5590416,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2007,
+   "Emissions": 134.1901245,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2006,
+   "Emissions": 138.9323466,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2005,
+   "Emissions": 141.141047,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2004,
+   "Emissions": 148.8050761,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2003,
+   "Emissions": 154.3798002,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2002,
+   "Emissions": 160.3168457,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2001,
+   "Emissions": 167.178945,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 2000,
+   "Emissions": 174.0667518,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1999,
+   "Emissions": 184.5484422,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1998,
+   "Emissions": 188.462152,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1997,
+   "Emissions": 198.8152038,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1996,
+   "Emissions": 200.1297876,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1995,
+   "Emissions": 212.7729509,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1994,
+   "Emissions": 216.5770547,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1993,
+   "Emissions": 223.628198,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1992,
+   "Emissions": 229.9797215,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1991,
+   "Emissions": 237.0196231,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "PM2.5",
+   "Year": 1990,
+   "Emissions": 242.5532282,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2018,
+   "Emissions": 288.9723749,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2017,
+   "Emissions": 301.7203135,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2016,
+   "Emissions": 311.3654557,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2015,
+   "Emissions": 335.9275905,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2014,
+   "Emissions": 339.2492243,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2013,
+   "Emissions": 360.0864245,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2012,
+   "Emissions": 371.6834133,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2011,
+   "Emissions": 389.1738945,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2010,
+   "Emissions": 405.2071546,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2009,
+   "Emissions": 395.3651599,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2008,
+   "Emissions": 453.8362686,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2007,
+   "Emissions": 458.8764089,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2006,
+   "Emissions": 475.7140921,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2005,
+   "Emissions": 477.2741914,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2004,
+   "Emissions": 497.423939,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2003,
+   "Emissions": 538.8195249,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2002,
+   "Emissions": 565.8856376,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2001,
+   "Emissions": 629.1905507,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 2000,
+   "Emissions": 650.3767736,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1999,
+   "Emissions": 805.718088,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1998,
+   "Emissions": 986.3310182,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1997,
+   "Emissions": 1233.031895,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1996,
+   "Emissions": 1483.399011,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1995,
+   "Emissions": 1750.796707,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1994,
+   "Emissions": 2424.279592,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1993,
+   "Emissions": 2910.690185,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1992,
+   "Emissions": 3246.240525,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1991,
+   "Emissions": 3974.451531,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Germany",
+   "PL": "SOx",
+   "Year": 1990,
+   "Emissions": 5472.910946,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2018,
+   "Emissions": 366.1714174,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2017,
+   "Emissions": 379.453001,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2016,
+   "Emissions": 385.7663622,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2015,
+   "Emissions": 378.8390947,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2014,
+   "Emissions": 378.1774896,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2013,
+   "Emissions": 388.979567,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2012,
+   "Emissions": 400.4104356,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2011,
+   "Emissions": 389.6484347,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2010,
+   "Emissions": 387.0706288,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2009,
+   "Emissions": 396.9861491,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2008,
+   "Emissions": 412.6982502,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2007,
+   "Emissions": 423.6355419,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2006,
+   "Emissions": 421.9999304,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2005,
+   "Emissions": 425.7302395,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2004,
+   "Emissions": 442.6431132,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2003,
+   "Emissions": 445.8603665,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2002,
+   "Emissions": 446.3854388,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2001,
+   "Emissions": 456.9217543,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 2000,
+   "Emissions": 458.4971437,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1999,
+   "Emissions": 462.9417761,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1998,
+   "Emissions": 457.3141158,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1997,
+   "Emissions": 457.1392474,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1996,
+   "Emissions": 446.5804426,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1995,
+   "Emissions": 452.5065282,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1994,
+   "Emissions": 456.929179,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1993,
+   "Emissions": 466.6786543,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1992,
+   "Emissions": 461.6279225,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1991,
+   "Emissions": 473.4338799,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NH3",
+   "Year": 1990,
+   "Emissions": 467.2447909,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2018,
+   "Emissions": 913.3142263,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2017,
+   "Emissions": 947.1174607,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2016,
+   "Emissions": 900.8066632,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2015,
+   "Emissions": 917.0200264,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2014,
+   "Emissions": 940.1007695,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2013,
+   "Emissions": 1008.475549,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2012,
+   "Emissions": 1036.372532,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2011,
+   "Emissions": 1044.678378,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2010,
+   "Emissions": 1137.339762,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2009,
+   "Emissions": 1201.795615,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2008,
+   "Emissions": 1282.667172,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2007,
+   "Emissions": 1304.835287,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2006,
+   "Emissions": 1324.273511,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2005,
+   "Emissions": 1360.850911,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2004,
+   "Emissions": 1340.798514,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2003,
+   "Emissions": 1433.857587,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2002,
+   "Emissions": 1449.500553,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2001,
+   "Emissions": 1538.8701,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 2000,
+   "Emissions": 1600.68398,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1999,
+   "Emissions": 1764.348821,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1998,
+   "Emissions": 1832.664109,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1997,
+   "Emissions": 1925.479241,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1996,
+   "Emissions": 1970.46595,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1995,
+   "Emissions": 2022.132873,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1994,
+   "Emissions": 2040.073264,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1993,
+   "Emissions": 2089.851098,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1992,
+   "Emissions": 2095.730452,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1991,
+   "Emissions": 2030.657681,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NMVOC",
+   "Year": 1990,
+   "Emissions": 1964.954003,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2018,
+   "Emissions": 669.1569061,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2017,
+   "Emissions": 671.7223383,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2016,
+   "Emissions": 712.0880911,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2015,
+   "Emissions": 732.0171773,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2014,
+   "Emissions": 766.9198368,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2013,
+   "Emissions": 786.6254604,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2012,
+   "Emissions": 853.5635562,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2011,
+   "Emissions": 900.4756845,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2010,
+   "Emissions": 944.5200229,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2009,
+   "Emissions": 966.1203261,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2008,
+   "Emissions": 1055.492621,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2007,
+   "Emissions": 1169.779529,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2006,
+   "Emissions": 1236.012434,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2005,
+   "Emissions": 1291.268214,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2004,
+   "Emissions": 1346.805207,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2003,
+   "Emissions": 1395.719971,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2002,
+   "Emissions": 1417.94372,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2001,
+   "Emissions": 1475.197519,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 2000,
+   "Emissions": 1505.320673,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1999,
+   "Emissions": 1623.496637,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1998,
+   "Emissions": 1722.328964,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1997,
+   "Emissions": 1836.623788,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1996,
+   "Emissions": 1914.712249,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1995,
+   "Emissions": 1987.326562,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1994,
+   "Emissions": 2025.52883,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1993,
+   "Emissions": 2125.84411,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1992,
+   "Emissions": 2229.585245,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1991,
+   "Emissions": 2190.62703,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "NOx",
+   "Year": 1990,
+   "Emissions": 2123.416326,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2018,
+   "Emissions": 143.3941181,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2017,
+   "Emissions": 161.9284556,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2016,
+   "Emissions": 154.753623,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2015,
+   "Emissions": 159.3466252,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2014,
+   "Emissions": 153.633589,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2013,
+   "Emissions": 171.255979,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2012,
+   "Emissions": 177.3351654,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2011,
+   "Emissions": 150.6930546,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2010,
+   "Emissions": 198.4200097,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2009,
+   "Emissions": 203.3070854,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2008,
+   "Emissions": 219.2279457,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2007,
+   "Emissions": 206.8239917,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2006,
+   "Emissions": 182.5424624,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2005,
+   "Emissions": 176.1172049,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2004,
+   "Emissions": 151.585879,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2003,
+   "Emissions": 176.9589288,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2002,
+   "Emissions": 158.3913324,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2001,
+   "Emissions": 188.4535488,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 2000,
+   "Emissions": 196.6411438,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1999,
+   "Emissions": 209.5831966,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1998,
+   "Emissions": 212.940416,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1997,
+   "Emissions": 213.1511892,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1996,
+   "Emissions": 216.0720123,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1995,
+   "Emissions": 225.9713107,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1994,
+   "Emissions": 226.1144996,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1993,
+   "Emissions": 230.7120246,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1992,
+   "Emissions": 229.6007755,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1991,
+   "Emissions": 237.386676,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "PM2.5",
+   "Year": 1990,
+   "Emissions": 228.8708166,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2018,
+   "Emissions": 110.2654454,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2017,
+   "Emissions": 115.2282557,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2016,
+   "Emissions": 116.7702962,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2015,
+   "Emissions": 124.2884566,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2014,
+   "Emissions": 131.3388353,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2013,
+   "Emissions": 146.2818309,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2012,
+   "Emissions": 177.634927,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2011,
+   "Emissions": 195.8393087,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2010,
+   "Emissions": 218.0694261,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2009,
+   "Emissions": 237.0433481,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2008,
+   "Emissions": 289.6864909,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2007,
+   "Emissions": 344.9561707,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2006,
+   "Emissions": 387.4415591,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2005,
+   "Emissions": 409.2246115,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2004,
+   "Emissions": 487.3800524,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2003,
+   "Emissions": 524.0203999,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2002,
+   "Emissions": 622.8286842,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2001,
+   "Emissions": 704.1266371,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 2000,
+   "Emissions": 755.8286668,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1999,
+   "Emissions": 903.30529,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1998,
+   "Emissions": 1003.963617,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1997,
+   "Emissions": 1138.072349,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1996,
+   "Emissions": 1213.640699,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1995,
+   "Emissions": 1322.455367,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1994,
+   "Emissions": 1389.264178,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1993,
+   "Emissions": 1471.525627,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1992,
+   "Emissions": 1574.005548,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1991,
+   "Emissions": 1672.427749,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Italy",
+   "PL": "SOx",
+   "Year": 1990,
+   "Emissions": 1783.635938,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2018,
+   "Emissions": 470.1964233,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2017,
+   "Emissions": 479.1854178,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2016,
+   "Emissions": 460.4746673,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2015,
+   "Emissions": 447.7901819,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2014,
+   "Emissions": 439.4426025,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2013,
+   "Emissions": 420.6704414,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2012,
+   "Emissions": 413.6847636,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2011,
+   "Emissions": 418.2926424,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2010,
+   "Emissions": 430.5922529,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2009,
+   "Emissions": 434.7388133,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2008,
+   "Emissions": 436.9256858,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2007,
+   "Emissions": 478.7739165,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2006,
+   "Emissions": 472.6262874,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2005,
+   "Emissions": 476.2866301,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2004,
+   "Emissions": 506.5038624,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2003,
+   "Emissions": 511.4506781,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2002,
+   "Emissions": 501.964733,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2001,
+   "Emissions": 512.2043816,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 2000,
+   "Emissions": 516.2594048,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1999,
+   "Emissions": 492.6434508,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1998,
+   "Emissions": 488.1754149,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1997,
+   "Emissions": 463.4254613,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1996,
+   "Emissions": 466.1956751,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1995,
+   "Emissions": 424.7145217,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1994,
+   "Emissions": 434.870359,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1993,
+   "Emissions": 420.4574725,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1992,
+   "Emissions": 441.9055051,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1991,
+   "Emissions": 450.0807928,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NH3",
+   "Year": 1990,
+   "Emissions": 462.5326114,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2018,
+   "Emissions": 624.2094681,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2017,
+   "Emissions": 618.2088443,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2016,
+   "Emissions": 605.2317628,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2015,
+   "Emissions": 591.6234086,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2014,
+   "Emissions": 572.3688431,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2013,
+   "Emissions": 568.2128541,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2012,
+   "Emissions": 582.9152078,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2011,
+   "Emissions": 604.8207959,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2010,
+   "Emissions": 629.20154,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2009,
+   "Emissions": 629.0555196,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2008,
+   "Emissions": 690.5692097,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2007,
+   "Emissions": 757.2000298,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2006,
+   "Emissions": 772.2327692,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2005,
+   "Emissions": 802.8727303,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2004,
+   "Emissions": 832.6211771,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2003,
+   "Emissions": 851.28499,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2002,
+   "Emissions": 885.6987302,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2001,
+   "Emissions": 920.1806685,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 2000,
+   "Emissions": 948.2556214,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1999,
+   "Emissions": 982.921822,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1998,
+   "Emissions": 1011.434852,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1997,
+   "Emissions": 984.2061501,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1996,
+   "Emissions": 987.9067389,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1995,
+   "Emissions": 958.8135414,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1994,
+   "Emissions": 976.3212543,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1993,
+   "Emissions": 957.2504683,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1992,
+   "Emissions": 1024.974654,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1991,
+   "Emissions": 1023.049211,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NMVOC",
+   "Year": 1990,
+   "Emissions": 1017.964023,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2018,
+   "Emissions": 698.4829787,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2017,
+   "Emissions": 739.335645,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2016,
+   "Emissions": 746.4398935,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2015,
+   "Emissions": 791.6894011,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2014,
+   "Emissions": 785.1527501,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2013,
+   "Emissions": 784.4629894,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2012,
+   "Emissions": 870.765446,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2011,
+   "Emissions": 920.925952,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2010,
+   "Emissions": 931.3292638,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2009,
+   "Emissions": 988.043457,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2008,
+   "Emissions": 1100.098467,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2007,
+   "Emissions": 1307.104615,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2006,
+   "Emissions": 1314.996001,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2005,
+   "Emissions": 1357.255371,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2004,
+   "Emissions": 1382.404057,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2003,
+   "Emissions": 1364.642825,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2002,
+   "Emissions": 1366.57208,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2001,
+   "Emissions": 1337.559143,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 2000,
+   "Emissions": 1365.877807,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1999,
+   "Emissions": 1343.696509,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1998,
+   "Emissions": 1321.063075,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1997,
+   "Emissions": 1339.858831,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1996,
+   "Emissions": 1330.763075,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1995,
+   "Emissions": 1363.046955,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1994,
+   "Emissions": 1384.778226,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1993,
+   "Emissions": 1386.859114,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1992,
+   "Emissions": 1432.672451,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1991,
+   "Emissions": 1394.110596,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "NOx",
+   "Year": 1990,
+   "Emissions": 1348.045482,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2018,
+   "Emissions": 125.3124929,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2017,
+   "Emissions": 125.5637146,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2016,
+   "Emissions": 125.6217786,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2015,
+   "Emissions": 128.3365381,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2014,
+   "Emissions": 120.8723399,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2013,
+   "Emissions": 135.4740913,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2012,
+   "Emissions": 122.6114672,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2011,
+   "Emissions": 138.3636007,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2010,
+   "Emissions": 136.0802597,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2009,
+   "Emissions": 139.3442938,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2008,
+   "Emissions": 134.5183055,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2007,
+   "Emissions": 148.0797401,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2006,
+   "Emissions": 147.6798631,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2005,
+   "Emissions": 146.1630408,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2004,
+   "Emissions": 150.3628875,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2003,
+   "Emissions": 162.0413716,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2002,
+   "Emissions": 150.9268449,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2001,
+   "Emissions": 154.7438713,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 2000,
+   "Emissions": 162.6645749,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1999,
+   "Emissions": 160.6680352,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1998,
+   "Emissions": 163.9878715,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1997,
+   "Emissions": 168.7070462,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1996,
+   "Emissions": 172.6652527,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1995,
+   "Emissions": 174.4422254,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1994,
+   "Emissions": 178.9618147,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1993,
+   "Emissions": 182.4577617,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1992,
+   "Emissions": 185.586789,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1991,
+   "Emissions": 189.1476346,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "PM2.5",
+   "Year": 1990,
+   "Emissions": 193.675133,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2018,
+   "Emissions": 196.710431,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2017,
+   "Emissions": 216.2078756,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2016,
+   "Emissions": 215.6579287,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2015,
+   "Emissions": 258.8708002,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2014,
+   "Emissions": 241.79743,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2013,
+   "Emissions": 220.8092881,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2012,
+   "Emissions": 284.055822,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2011,
+   "Emissions": 280.4333048,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2010,
+   "Emissions": 244.2468734,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2009,
+   "Emissions": 285.4653787,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2008,
+   "Emissions": 383.0487699,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2007,
+   "Emissions": 1044.945078,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2006,
+   "Emissions": 1074.459797,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2005,
+   "Emissions": 1205.650075,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2004,
+   "Emissions": 1249.062597,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2003,
+   "Emissions": 1217.845795,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2002,
+   "Emissions": 1471.057528,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2001,
+   "Emissions": 1329.115603,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 2000,
+   "Emissions": 1389.6864,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1999,
+   "Emissions": 1512.043983,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1998,
+   "Emissions": 1497.8368,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1997,
+   "Emissions": 1626.078524,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1996,
+   "Emissions": 1551.25333,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1995,
+   "Emissions": 1763.413605,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1994,
+   "Emissions": 1895.700239,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1993,
+   "Emissions": 1945.197053,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1992,
+   "Emissions": 2043.390676,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1991,
+   "Emissions": 2061.587914,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "Spain",
+   "PL": "SOx",
+   "Year": 1990,
+   "Emissions": 2039.290074,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2018,
+   "Emissions": 276.752811,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2017,
+   "Emissions": 278.3072002,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2016,
+   "Emissions": 276.4851792,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2015,
+   "Emissions": 271.5273226,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2014,
+   "Emissions": 267.2919298,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2013,
+   "Emissions": 255.0159467,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2012,
+   "Emissions": 258.6867702,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2011,
+   "Emissions": 261.7372599,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2010,
+   "Emissions": 258.2314563,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2009,
+   "Emissions": 257.0536694,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2008,
+   "Emissions": 255.24834,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2007,
+   "Emissions": 270.349914,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2006,
+   "Emissions": 274.3725946,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2005,
+   "Emissions": 280.4922883,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2004,
+   "Emissions": 289.8614196,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2003,
+   "Emissions": 283.7870742,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2002,
+   "Emissions": 290.7787278,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2001,
+   "Emissions": 294.3758957,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 2000,
+   "Emissions": 303.0790901,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1999,
+   "Emissions": 310.0226347,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1998,
+   "Emissions": 315.3521761,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1997,
+   "Emissions": 314.4955487,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1996,
+   "Emissions": 308.4793663,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1995,
+   "Emissions": 299.1166549,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1994,
+   "Emissions": 307.0925401,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1993,
+   "Emissions": 302.1508,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1992,
+   "Emissions": 307.3522209,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1991,
+   "Emissions": 322.1608596,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NH3",
+   "Year": 1990,
+   "Emissions": 323.264149,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2018,
+   "Emissions": 806.101983,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2017,
+   "Emissions": 793.6321578,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2016,
+   "Emissions": 784.08693,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2015,
+   "Emissions": 798.4424125,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2014,
+   "Emissions": 799.1006616,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2013,
+   "Emissions": 804.1000251,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2012,
+   "Emissions": 833.6747253,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2011,
+   "Emissions": 847.6380984,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2010,
+   "Emissions": 867.2418238,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2009,
+   "Emissions": 893.5276212,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2008,
+   "Emissions": 1000.514521,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2007,
+   "Emissions": 1081.461478,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2006,
+   "Emissions": 1124.307689,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2005,
+   "Emissions": 1174.708969,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2004,
+   "Emissions": 1258.35715,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2003,
+   "Emissions": 1347.794357,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2002,
+   "Emissions": 1464.649767,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2001,
+   "Emissions": 1554.912357,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 2000,
+   "Emissions": 1633.248787,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1999,
+   "Emissions": 1782.974457,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1998,
+   "Emissions": 1974.006435,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1997,
+   "Emissions": 2145.112547,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1996,
+   "Emissions": 2255.909948,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1995,
+   "Emissions": 2308.664402,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1994,
+   "Emissions": 2519.566536,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1993,
+   "Emissions": 2673.606234,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1992,
+   "Emissions": 2809.25474,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1991,
+   "Emissions": 2893.883015,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NMVOC",
+   "Year": 1990,
+   "Emissions": 2952.161987,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2018,
+   "Emissions": 842.7688593,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2017,
+   "Emissions": 889.6498415,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2016,
+   "Emissions": 921.1737684,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2015,
+   "Emissions": 1010.611066,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2014,
+   "Emissions": 1046.108624,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2013,
+   "Emissions": 1117.596906,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2012,
+   "Emissions": 1177.811156,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2011,
+   "Emissions": 1152.23322,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2010,
+   "Emissions": 1242.240653,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2009,
+   "Emissions": 1265.648918,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2008,
+   "Emissions": 1458.557861,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2007,
+   "Emissions": 1630.651473,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2006,
+   "Emissions": 1698.550263,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2005,
+   "Emissions": 1769.815075,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2004,
+   "Emissions": 1783.137306,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2003,
+   "Emissions": 1842.49761,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2002,
+   "Emissions": 1886.5862,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2001,
+   "Emissions": 1993.382316,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 2000,
+   "Emissions": 2044.025013,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1999,
+   "Emissions": 2131.420951,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1998,
+   "Emissions": 2259.683661,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1997,
+   "Emissions": 2352.174116,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1996,
+   "Emissions": 2556.07118,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1995,
+   "Emissions": 2650.241821,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1994,
+   "Emissions": 2815.447136,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1993,
+   "Emissions": 2944.863007,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1992,
+   "Emissions": 3112.651031,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1991,
+   "Emissions": 3154.633739,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "NOx",
+   "Year": 1990,
+   "Emissions": 3263.838289,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2018,
+   "Emissions": 107.792919,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2017,
+   "Emissions": 105.8828376,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2016,
+   "Emissions": 106.3325341,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2015,
+   "Emissions": 107.5895106,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2014,
+   "Emissions": 106.9012094,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2013,
+   "Emissions": 113.2010624,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2012,
+   "Emissions": 111.706436,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2011,
+   "Emissions": 106.4318184,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2010,
+   "Emissions": 118.6037567,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2009,
+   "Emissions": 110.2913444,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2008,
+   "Emissions": 115.7989187,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2007,
+   "Emissions": 117.3537733,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2006,
+   "Emissions": 123.6569932,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2005,
+   "Emissions": 126.1453063,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2004,
+   "Emissions": 128.36569,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2003,
+   "Emissions": 131.8712523,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2002,
+   "Emissions": 130.8048613,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2001,
+   "Emissions": 147.0087932,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 2000,
+   "Emissions": 148.3315214,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1999,
+   "Emissions": 162.9102443,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1998,
+   "Emissions": 165.5792386,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1997,
+   "Emissions": 174.8581276,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1996,
+   "Emissions": 184.3172357,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1995,
+   "Emissions": 185.0555739,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1994,
+   "Emissions": 202.8589646,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1993,
+   "Emissions": 211.3155438,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1992,
+   "Emissions": 226.4951752,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1991,
+   "Emissions": 235.5361431,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "PM2.5",
+   "Year": 1990,
+   "Emissions": 236.6610753,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2018,
+   "Emissions": 159.7520427,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2017,
+   "Emissions": 174.5004228,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2016,
+   "Emissions": 179.5223199,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2015,
+   "Emissions": 250.5242761,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2014,
+   "Emissions": 322.2585563,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2013,
+   "Emissions": 396.9631255,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2012,
+   "Emissions": 460.1316391,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2011,
+   "Emissions": 415.8733571,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2010,
+   "Emissions": 450.27432,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2009,
+   "Emissions": 432.9346401,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2008,
+   "Emissions": 529.8709037,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2007,
+   "Emissions": 633.3760544,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2006,
+   "Emissions": 728.7193627,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2005,
+   "Emissions": 772.9541312,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2004,
+   "Emissions": 894.753726,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2003,
+   "Emissions": 1052.571837,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2002,
+   "Emissions": 1079.249958,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2001,
+   "Emissions": 1199.984702,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 2000,
+   "Emissions": 1286.534893,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1999,
+   "Emissions": 1319.865384,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1998,
+   "Emissions": 1704.55592,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1997,
+   "Emissions": 1731.343946,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1996,
+   "Emissions": 2099.170454,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1995,
+   "Emissions": 2457.699768,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1994,
+   "Emissions": 2746.696141,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1993,
+   "Emissions": 3201.617724,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1992,
+   "Emissions": 3540.020152,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1991,
+   "Emissions": 3596.960657,
+   "Unit": "Gg (1000 tonnes)"
+ },
+ {
+   "CN": "United Kingdom",
+   "PL": "SOx",
+   "Year": 1990,
+   "Emissions": 3768.639906,
+   "Unit": "Gg (1000 tonnes)"
+ }
+]
