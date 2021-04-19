@@ -10,6 +10,7 @@ import {
   withStyles,
 } from "@material-ui/core";
 import { purple } from "@material-ui/core/colors";
+import TrendingUpIcon from "@material-ui/icons/TrendingUp";
 import { Formik } from "formik";
 import "../styles/form.css";
 
@@ -37,6 +38,7 @@ export default class Form extends Component {
   render() {
     return (
       <div>
+        <h4>Chart is currently displaying:</h4>
         <Formik
           initialValues={{ country: "United Kingdom", pollutantType: "NH3" }}
           onSubmit={(data, { setSubmitting }) => {
@@ -64,29 +66,26 @@ export default class Form extends Component {
                   </Select>
                   <FormHelperText>Countries</FormHelperText>
                 </FormControl>
+                <FormControl variant="filled">
+                  <Select
+                    name="pollutantType"
+                    value={values.pollutantType}
+                    onChange={handleChange}
+                    onBlur={handleBlur}
+                  >
+                    <MenuItem value={"NH3"}>NH3</MenuItem>
+                    <MenuItem value={"NOx"}>NOx</MenuItem>
+                    <MenuItem value={"SOx"}>SOx</MenuItem>
+                    <MenuItem value={"PM2.5"}>PM2.5</MenuItem>
+                    <MenuItem value={"NMVOC"}>NMVOC</MenuItem>
+                  </Select>
+                  <FormHelperText>Air Pollutant Type</FormHelperText>
+                </FormControl>
               </ThemeProvider>
-              <div>
-                <br />
-                <ThemeProvider theme={theme}>
-                  <FormControl variant="filled">
-                    <Select
-                      name="pollutantType"
-                      value={values.pollutantType}
-                      onChange={handleChange}
-                      onBlur={handleBlur}
-                    >
-                      <MenuItem value={"NH3"}>NH3</MenuItem>
-                      <MenuItem value={"NOx"}>NOx</MenuItem>
-                      <MenuItem value={"SOx"}>SOx</MenuItem>
-                      <MenuItem value={"PM2.5"}>PM2.5</MenuItem>
-                      <MenuItem value={"NMVOC"}>NMVOC</MenuItem>
-                    </Select>
-                    <FormHelperText>Air Pollutant Type</FormHelperText>
-                  </FormControl>
-                </ThemeProvider>
-              </div>
+
               <br />
               <div>
+                <br />
                 <ThemeProvider theme={theme}>
                   <ColorButton
                     variant="contained"
@@ -94,6 +93,7 @@ export default class Form extends Component {
                     type="submit"
                   >
                     Load Chart
+                    <TrendingUpIcon />
                   </ColorButton>
                 </ThemeProvider>
               </div>
