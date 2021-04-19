@@ -1,0 +1,14 @@
+a {
+  color: #b64fc8;
+}
+a:hover {
+  color: white;
+}
+
+code {
+  color: #28a745;
+}
+
+.normalCode {
+  color: #b64fc8;
+}

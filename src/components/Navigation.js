@@ -1,9 +1,5 @@
 import React, { Component } from "react";
-import {
-  Navbar,
-  Nav,
-  Button,
-} from "react-bootstrap";
+import { Navbar, Nav, Button } from "react-bootstrap";
 
 import logo from "../logo.png";
 
@@ -14,7 +10,7 @@ export default class Navigation extends Component {
 
   render() {
     return (
-      <Navbar  bg="dark" variant="dark" fixed="top" expand="lg">
+      <Navbar bg="dark" variant="dark" fixed="top" expand="lg">
         <Navbar.Brand href="/">
           <img
             alt=""
@@ -27,12 +23,9 @@ export default class Navigation extends Component {
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto">
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="#link">Info</Nav.Link>
-          </Nav>
+          <Nav className="mr-auto"></Nav>
           <Button variant="outline-success" onClick={this.click}>
-            Support Us on GitHub!
+            Support Me on GitHub!
           </Button>
         </Navbar.Collapse>
       </Navbar>

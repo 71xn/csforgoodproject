@@ -6,6 +6,7 @@ import Data from "./d.json";
 import sortData from "./components/DS.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navigation from "./components/Navigation.js";
+import Info from "./components/Info.js";
 
 // Takes prop of data in the form of parsed json
 
@@ -19,9 +20,8 @@ export default class App extends Component {
     this.state = { data: props.data };
   }
 
-  // Sends data back to index
+  // Get data from function and parse new vars
   parentFunction = (dataFromForm) => {
-    //this.props.functionFromParent(dataFromForm);
     var pollutant = dataFromForm.pollutantType;
     var country = dataFromForm.country;
     var newData = sortData(country, pollutant, Data);
@@ -32,18 +32,36 @@ export default class App extends Component {
     return (
       <div className="App">
         <Navigation />
-        <div class="row">
-          <div class="column left">
+        <div className="row">
+          <div className="column left">
             <Chart data={this.state.data} />
           </div>
-          <div class="column right">
-            <h1 color="white">
-              Data Selection
-            </h1>
+          <div className="column right">
+            <h2 color="white">Data Selection</h2>
             <br />
             <Form functionCallFromParent={this.parentFunction.bind(this)} />
+            <br />
+            <h3>Project Info</h3>
+            <div className="infoBox">
+              <Info />
+            </div>
           </div>
         </div>
+        <small className="small">
+          This project was created by{" "}
+          <a href="https://twitter.com/finnlestrange">@finnlestrange</a> 🌲 and
+          is hosted on{" "}
+          <a className="cloudflareLink" href="https://pages.cloudflare.com/">
+            Cloudflare Pages 🔥
+          </a>
+          . Data provided by{" "}
+          <a
+            className="eeaLink"
+            href="https://www.eea.europa.eu/data-and-maps/dashboards/air-pollutant-emissions-data-viewer-3"
+          >
+            European Environment Agency 🌍
+          </a>
+        </small>
       </div>
     );
   }

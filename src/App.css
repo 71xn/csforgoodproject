@@ -4,6 +4,34 @@
   color: white;
 }
 
+a {
+  color: #b64fc8;
+}
+a:hover {
+  color: #ffffff;
+}
+
+.cloudflareLink {
+  color: #f79b3b;
+}
+
+.eeaLink {
+  color: #028889;
+}
+
+.small {
+  text-align: center;
+}
+.infoBox {
+  width: 640px;
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  background: #606368;
+  border-radius: 25px;
+  margin: auto;
+}
+
 .row {
   display: flex;
   padding-top: 5px;
@@ -14,15 +42,16 @@
 }
 
 .left {
+  text-align: center;
   width: 50%;
   padding-left: 0%;
-  max-width: 43%
+  max-width: 43%;
 }
 
 .right {
+  text-align: center;
   padding-top: 5%;
   width: 50%;
-  
 }
 
 @media screen and (max-width: 600px) {

@@ -6,11 +6,12 @@ import {
   Button,
   createMuiTheme,
   ThemeProvider,
-  FormHelperText
+  FormHelperText,
+  withStyles,
 } from "@material-ui/core";
+import { purple } from "@material-ui/core/colors";
 import { Formik } from "formik";
 import "../styles/form.css";
-
 
 const theme = createMuiTheme({
   palette: {
@@ -18,10 +19,19 @@ const theme = createMuiTheme({
     type: "dark",
   },
   MenuItem: {
-    selectedTextColor: 'white',
+    selectedTextColor: "white",
   },
 });
 
+const ColorButton = withStyles((theme) => ({
+  root: {
+    color: theme.palette.getContrastText(purple[500]),
+    backgroundColor: purple[500],
+    "&:hover": {
+      backgroundColor: purple[700],
+    },
+  },
+}))(Button);
 
 export default class Form extends Component {
   render() {
@@ -32,7 +42,7 @@ export default class Form extends Component {
           onSubmit={(data, { setSubmitting }) => {
             setSubmitting(true);
             this.props.functionCallFromParent(data);
-            console.log(data);
+            //console.log(data);
             setSubmitting(false);
           }}
         >
@@ -40,7 +50,7 @@ export default class Form extends Component {
             <form onSubmit={handleSubmit} onChange={handleChange}>
               <ThemeProvider theme={theme}>
                 <FormControl variant="filled">
-                  <Select labelStyle={{ color: 'green' }}
+                  <Select
                     name="country"
                     value={values.country}
                     onChange={handleChange}
@@ -58,28 +68,33 @@ export default class Form extends Component {
               <div>
                 <br />
                 <ThemeProvider theme={theme}>
-                <FormControl variant="filled">
-                  <Select
-                    name="pollutantType"
-                    value={values.pollutantType}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                  >
-                    <MenuItem value={"NH3"}>NH3</MenuItem>
-                    <MenuItem value={"NOx"}>NOx</MenuItem>
-                    <MenuItem value={"SOx"}>SOx</MenuItem>
-                    <MenuItem value={"PM2.5"}>PM2.5</MenuItem>
-                    <MenuItem value={"NMVOC"}>NMVOC</MenuItem>
-                  </Select>
-                  <FormHelperText>Air Pollutant Type</FormHelperText>
-                </FormControl>
+                  <FormControl variant="filled">
+                    <Select
+                      name="pollutantType"
+                      value={values.pollutantType}
+                      onChange={handleChange}
+                      onBlur={handleBlur}
+                    >
+                      <MenuItem value={"NH3"}>NH3</MenuItem>
+                      <MenuItem value={"NOx"}>NOx</MenuItem>
+                      <MenuItem value={"SOx"}>SOx</MenuItem>
+                      <MenuItem value={"PM2.5"}>PM2.5</MenuItem>
+                      <MenuItem value={"NMVOC"}>NMVOC</MenuItem>
+                    </Select>
+                    <FormHelperText>Air Pollutant Type</FormHelperText>
+                  </FormControl>
                 </ThemeProvider>
-                
               </div>
               <br />
               <div>
                 <ThemeProvider theme={theme}>
-                  <Button type="submit">Query Data</Button>
+                  <ColorButton
+                    variant="contained"
+                    color="secondary"
+                    type="submit"
+                  >
+                    Load Chart
+                  </ColorButton>
                 </ThemeProvider>
               </div>
             </form>

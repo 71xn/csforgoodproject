@@ -9,8 +9,9 @@ import App from "./App.js";
 
 document.body.style = "background: #202124;";
 
-var d1 = sortData("United Kingdom" ,"NH3", Data);
+var d1 = sortData("United Kingdom", "NH3", Data);
 
+/*
 var getFormData = (dataFromForm) => {
   var formData = dataFromForm;
   console.log(formData);
@@ -18,8 +19,6 @@ var getFormData = (dataFromForm) => {
   var country = formData.country;
   d1 = sortData(country, pollutant, Data);
 };
+*/
 
-ReactDOM.render(
-  <App data={d1} functionFromParent={getFormData.bind(this)} />,
-  document.getElementById("root")
-);
+ReactDOM.render(<App data={d1} />, document.getElementById("root"));

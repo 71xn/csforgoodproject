@@ -6,16 +6,9 @@ function sortData(country, selection, Data) {
   // https://www.stechies.com/unexpected-token-o-json-position-1/ - Helped to fix the JSON parsing issue for sorting data
   var data1 = JSON.stringify(Data);
   var selectionOnly = JSON.parse(data1).filter(function (entry) {
-    return (entry.PL === selection && entry.CN === country);
+    return entry.PL === selection && entry.CN === country;
   });
 
-  console.log(selectionOnly);
-
-  /*
-  var countryOnly = JSON.parse(selectionOnly).filter (function (entry) {
-    return entry.CN === country;
-  });
-  */
   return selectionOnly;
 }
 
