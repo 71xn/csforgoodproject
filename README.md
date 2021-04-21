@@ -1,4 +1,8 @@
-<div style="text-align:center"><img src="https://github.com/71xn/csforgoodproject/raw/master/src/logo.png" /></div
+
+<p align="center">
+  <a href="https://github.com/71xn/csforgoodproject">
+    <img src="https://github.com/71xn/csforgoodproject/raw/master/src/logo.png" alt="Logo" width="120" height="120">
+  </a>
 
 # [#CSFORGOOD](https://twitter.com/search?q=%23CSFORGOOD) Project - Visualizing European Pollution Data
 
