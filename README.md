@@ -9,7 +9,7 @@
 ## [csforgood.pages.dev](https://csforgood.pages.dev)
 ## The Project Goals
 * This projects was created to fit the [UN Sustainability Goal 13](https://sdgs.un.org/goals/goal13) and to use CS to help us visualize this data in a readable and friendly format
-* The Project was created with the aim of being able to raise awareness about climate change and the positive steps European countries have taken, but also to raise awareness in relation to the ares for improvement.
+* The Project was created with the aim of being able to raise awareness about climate change and the positive steps European countries have taken, but also to raise awareness in relation to the areas for improvement.
 
 ## Video Showcase 
 
