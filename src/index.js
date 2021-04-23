@@ -3,13 +3,13 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
-import Data from "./d.json";
+import Data from "./final_data.json";
 import sortData from "./components/DS.js";
 import App from "./App.js";
 
 document.body.style = "background: #202124;";
 
-var d1 = sortData("United Kingdom", "NH3", Data);
+var d1 = sortData("Austria", "SOx", Data);
 
 /*
 var getFormData = (dataFromForm) => {

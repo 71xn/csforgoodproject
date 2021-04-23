@@ -2,7 +2,7 @@ import "./App.css";
 import Chart from "./components/Chart.js";
 import { Component } from "react";
 import Form from "./components/MenuForm.js";
-import Data from "./d.json";
+import Data from "./final_data.json";
 import sortData from "./components/DS.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navigation from "./components/Navigation.js";

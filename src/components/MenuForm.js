@@ -40,7 +40,7 @@ export default class Form extends Component {
       <div>
         <h4>Chart is currently displaying:</h4>
         <Formik
-          initialValues={{ country: "United Kingdom", pollutantType: "NH3" }}
+          initialValues={{ country: "Austria", pollutantType: "SOx" }}
           onSubmit={(data, { setSubmitting }) => {
             setSubmitting(true);
             this.props.functionCallFromParent(data);
@@ -58,11 +58,37 @@ export default class Form extends Component {
                     onChange={handleChange}
                     onBlur={handleBlur}
                   >
-                    <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
+                    <MenuItem value={"Austria"}>Austria</MenuItem>
+                    <MenuItem value={"Belgium"}>Belgium</MenuItem>
+                    <MenuItem value={"Bulgaria"}>Bulgaria</MenuItem>
+                    <MenuItem value={"Croatia"}>Croatia</MenuItem>
+                    <MenuItem value={"Cyprus"}>Cyprus</MenuItem>
+                    <MenuItem value={"Czechia"}>Czechia</MenuItem>
+                    <MenuItem value={"Denmark"}>Denmark</MenuItem>
+                    <MenuItem value={"Finland"}>Finland</MenuItem>
                     <MenuItem value={"France"}>France</MenuItem>
-                    <MenuItem value={"Spain"}>Spain</MenuItem>
                     <MenuItem value={"Germany"}>Germany</MenuItem>
+                    <MenuItem value={"Greece"}>Greece</MenuItem>
+                    <MenuItem value={"Hungary"}>Hungary</MenuItem>
+                    <MenuItem value={"Iceland"}>Iceland</MenuItem>
+                    <MenuItem value={"Ireland"}>Ireland</MenuItem>
                     <MenuItem value={"Italy"}>Italy</MenuItem>
+                    <MenuItem value={"Latvia"}>Latvia</MenuItem>
+                    <MenuItem value={"Liechtenstein"}>Liechtenstein</MenuItem>
+                    <MenuItem value={"Lithuania"}>Lithuania</MenuItem>
+                    <MenuItem value={"Luxembourg"}>Luxembourg</MenuItem>
+                    <MenuItem value={"Malta"}>Malta</MenuItem>
+                    <MenuItem value={"Netherlands"}>Netherlands</MenuItem>
+                    <MenuItem value={"Norway"}>Poland</MenuItem>
+                    <MenuItem value={"Portugal"}>Portugal</MenuItem>
+                    <MenuItem value={"Romania"}>Romania</MenuItem>
+                    <MenuItem value={"Slovakia"}>Slovakia</MenuItem>
+                    <MenuItem value={"Slovenia"}>Slovenia</MenuItem>
+                    <MenuItem value={"Spain"}>Spain</MenuItem>
+                    <MenuItem value={"Sweden"}>Sweden</MenuItem>
+                    <MenuItem value={"Switzerland"}>Switzerland</MenuItem>
+                    <MenuItem value={"Turkey"}>Turkey</MenuItem>
+                    <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
                   </Select>
                   <FormHelperText>Countries</FormHelperText>
                 </FormControl>
