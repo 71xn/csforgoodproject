@@ -26,11 +26,11 @@ export default class Chart extends Component {
         >
           <VictoryAxis
             // Sets x-axis labels for the years and sets the label for the axis as "Year"
-            //tickValues={[1990, 1995, 2000, 2005, 2010, 2015, 2020]}
+            tickValues={[1990, 1995, 2000, 2005, 2010, 2015, 2020]}
             axisLabelComponent={<VictoryLabel dy={23} />}
             label="Year"
             style={{
-              tickLabels: { fill: "#606368" },
+              tickLabels: { fill: "#606368", fontSize: 9 },
               axisLabel: { fill: "#DEDEDF" },
               axis: { stroke: "#606368" },
             }}
@@ -38,10 +38,10 @@ export default class Chart extends Component {
           <VictoryAxis
             dependentAxis // Indicated that we are now dealing with the y-axis (dependant variable)
             //tickValues={500, 1000, 1500, 2000, 2500, 3000, 3500}
-            axisLabelComponent={<VictoryLabel dy={-38} />}
+            axisLabelComponent={<VictoryLabel dy={-35} />}
             label="Pollutant Amount (1000 tonnes)"
             style={{
-              tickLabels: { fill: "#606368" },
+              tickLabels: { fill: "#606368", fontSize: 9 },
               axisLabel: { fill: "#DEDEDF" },
               axis: { stroke: "#606368" },
             }}
