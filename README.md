@@ -13,7 +13,9 @@
 
 ## Video Showcase 
 
-`coming soon`
+
+https://user-images.githubusercontent.com/44287141/115954025-9427c600-a4e6-11eb-9fad-f2a874883021.mp4
+
 
 ## Setting Up A Local Version
 
